@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
