@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0278-first-bad-version) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
