@@ -15,9 +15,7 @@ class Solution {
 
         ListNode dummy=new ListNode(-1);
         ListNode temp3=dummy;
-
         int carry=0;
-
         while(temp1!=null || temp2!=null || carry!=0) {
             int sum=carry;
             if(temp1!=null) {
