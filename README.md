@@ -10,17 +10,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
