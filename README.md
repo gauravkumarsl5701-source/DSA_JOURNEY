@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
