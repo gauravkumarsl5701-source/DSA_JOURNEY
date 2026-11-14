@@ -5,7 +5,7 @@ class Solution {
         int min=Integer.MAX_VALUE; 
        for(int i=0;i<n;i++){
         int sum=0;
-        for(int j=i;j<Math.min(n,i+r);j++){
+        for(int j=i;j<n;j++){
             sum+=arr[j];
             int len=j-i+1;
             if(len>=l&&len<=r&&sum>0) {
