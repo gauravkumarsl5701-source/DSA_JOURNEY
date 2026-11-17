@@ -50,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
