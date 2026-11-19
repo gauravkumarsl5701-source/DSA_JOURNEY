@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0020-valid-parentheses) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
