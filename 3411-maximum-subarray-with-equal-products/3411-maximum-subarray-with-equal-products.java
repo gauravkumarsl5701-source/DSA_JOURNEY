@@ -5,7 +5,7 @@ class Solution {
             long product = 1;
             long l = nums[i];
             long g = nums[i];
-            for (int j = i; j < nums.length; j++) {
+            for (int j=i;j<nums.length; j++) {
                 product *= nums[j];
                 g = gcd((int)g, nums[j]);
                 l = (l / gcd((int)l, nums[j])) * nums[j];
