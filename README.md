@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/0002-add-two-numbers) |
+| [3360-stone-removal-game](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3411-maximum-subarray-with-equal-products) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/gauravkumarsl5701-source/DSA_JOURNEY/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
